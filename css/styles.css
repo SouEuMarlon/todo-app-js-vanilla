@@ -14,6 +14,9 @@ body{
   background-position: center;
   background-size:cover;
   background-repeat: no-repeat;
+  min-height: 94.5vh;
+  overflow: hidden;
+  padding: 0 20px;
 }
 button{
   background: #fdfdfd;
